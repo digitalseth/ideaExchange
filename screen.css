@@ -203,6 +203,10 @@ footer {
   font-weight: bold;
 }
 
+.hide {
+  display: none;
+}
+
 .underline {
   text-decoration: underline;
 }
