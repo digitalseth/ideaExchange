@@ -210,6 +210,14 @@ footer {
   text-decoration: underline;
 }
 
+#credit {
+  font-family: monospace;
+  background-color: rgb(25,25,25);
+  color: white;
+  margin-top: 1em;
+  padding: 1em 2em 1.2em 1em;
+}
+
 @media (min-width: 37.5em){
 	h1 {
 		font-size: 4em;
@@ -233,12 +241,14 @@ footer {
 		border-radius: 2em;
 	}
 	
-	#desc, #info {
+	#desc, #info, #credit{
 		border-radius: 1.4em;
 	}
 	
-	#schedule {
+	#schedule{
 		border-radius: 2em;
 	}
+  
+    
 	
 }
