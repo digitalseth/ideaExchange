@@ -112,6 +112,7 @@ h2 {
 }
 
 #pitch .button {
+  font-size: 1em;
   border: 7px outset white;
   color: greenyellow;
   padding: 1em;
